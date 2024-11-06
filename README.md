@@ -31,6 +31,7 @@ Manage parking area with auto select location, tariff, and report. Web base with
 
 ## Views
 
+<img src="https://github.com/indraxyz/parkir/blob/main/screenshots/db.png">
 <img src="https://github.com/indraxyz/parkir/blob/main/screenshots/login.png">
 <img src="https://github.com/indraxyz/parkir/blob/main/screenshots/dashboard.png">
 <img src="https://github.com/indraxyz/parkir/blob/main/screenshots/masuk.png">
