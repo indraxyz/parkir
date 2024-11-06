@@ -1,0 +1,18 @@
+//
+@tailwind base;
+
+// font
+@font-face {
+    font-family: Ubuntu;
+    font-weight: 300;
+    src: url(/fonts/Ubuntu-Light.ttf) format("ttf");
+}
+@font-face {
+    font-family: Ubuntu;
+    font-weight: 500;
+    src: url(/fonts/Ubuntu-Medium.ttf) format("ttf");
+}
+
+@tailwind components;
+
+@tailwind utilities;

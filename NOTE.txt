@@ -1,0 +1,24 @@
+Running Projek (on Mac)
+    Start xampp
+        sudo su
+        /Applications/XAMPP/xamppfiles/xampp start
+    Start Laravel Projek
+        cd /
+        cd Applications/XAMPP/xamppfiles/htdocs/parkir_adam
+        php artisan serve
+
+-----------
+DISINI
+Kelola Blok, Lantai, Tarif, pengguna, lokasi : 
+    validasi form, more ajax
+Foto : kelola pengguna, akun saya
+
+----------- 
+REF
+Laporan 
+    (tanggal awal - tgl akhir)
+    total tarif
+    https://stackoverflow.com/questions/31853838/laravel-sum-of-relation?rq=1
+ICON = heroicons
+
+
