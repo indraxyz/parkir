@@ -5,10 +5,11 @@ Manage parking area with auto select location, tariff, and report. Web base with
 ## Features
 
 -   login panel
+-   dashboard: number of entrance, out, available and filled parking
 -   park entrance
--   park out
+-   park out, tariff and payment
 -   report
--   manage master data
+-   manage data: users, tariff, location, floor, block,
 -   my profile
 -   log out
 
