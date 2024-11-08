@@ -1,6 +1,6 @@
 ## About
 
-Manage parking area with auto select location, tariff, and report. Web base with laravel, tailwind, mysql
+manage parking area with main features: auto select location, park entrance and out, tariff and payment, report. Web base with laravel, tailwind, mysql
 
 ## Features
 
